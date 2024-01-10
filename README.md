@@ -1,5 +1,5 @@
 # UI-UX-DESIGN-PROJECT-
-UI/UX DESIGN PROJECT FOR FINTECH COMPANY 
+UI/UX DESIGN PROJECT FOR FINTECH COMPANY BY JUDE UZO
 
 The first page illustrates the loading page where the application launches. This poses a minimalistic design with company logo and company name on show
 
