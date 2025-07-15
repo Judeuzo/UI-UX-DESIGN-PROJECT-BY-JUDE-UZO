@@ -1,6 +1,11 @@
 # UI-UX-DESIGN-PROJECT-
 UI/UX DESIGN PROJECT FOR FINTECH COMPANY BY JUDE UZO
 
+![Alt text](https://www.behance.net/gallery/188619301/UIUX-DESIGN-PROJECT-FOR-FINTECH-COMPANY/modules/1066592473)
+![Alt text](https://www.behance.net/gallery/188619301/UIUX-DESIGN-PROJECT-FOR-FINTECH-COMPANY/modules/1066592475)
+![Alt text](https://www.behance.net/gallery/188619301/UIUX-DESIGN-PROJECT-FOR-FINTECH-COMPANY/modules/1066592477)
+
+
 The first page illustrates the loading page where the application launches. This poses a minimalistic design with company logo and company name on show
 
 The second page shows the login page where users can log in with thier account numbers which is their Generic phone numbers.
