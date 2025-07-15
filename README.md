@@ -1,9 +1,7 @@
 # UI-UX-DESIGN-PROJECT-
 UI/UX DESIGN PROJECT FOR FINTECH COMPANY BY JUDE UZO
 
-![Alt text](https://www.behance.net/gallery/188619301/UIUX-DESIGN-PROJECT-FOR-FINTECH-COMPANY/modules/1066592473)
-![Alt text](https://www.behance.net/gallery/188619301/UIUX-DESIGN-PROJECT-FOR-FINTECH-COMPANY/modules/1066592475)
-![Alt text](https://www.behance.net/gallery/188619301/UIUX-DESIGN-PROJECT-FOR-FINTECH-COMPANY/modules/1066592477)
+![Alt text](https://i.pinimg.com/1200x/06/3a/9c/063a9c8460d4dbe975732c2f1d3d82f1.jpg)
 
 
 The first page illustrates the loading page where the application launches. This poses a minimalistic design with company logo and company name on show
